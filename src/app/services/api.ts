@@ -1,3 +1,5 @@
+// api.ts
+
 const apiURL = 'https://bach-remedies-app-production.up.railway.app/';
 
 export interface sintomas {
